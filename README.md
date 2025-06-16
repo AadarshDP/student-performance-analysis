@@ -41,7 +41,7 @@ It was completed as part of my Data Science internship at OutriX (https://www.li
 - ![Screenshot 2025-06-16 134217](https://github.com/user-attachments/assets/4499ed8d-dc04-41db-a526-28fc153ea357)
 
 - Line plot comparing section-wise average scores
--[Screenshot 2025-06-16 134319](https://github.com/user-attachments/assets/0c86e246-c382-4d52-845b-de0df7780186)
+-![Screenshot 2025-06-16 134319](https://github.com/user-attachments/assets/0c86e246-c382-4d52-845b-de0df7780186)
   
  - Top Scoring students by section
  - ![Screenshot 2025-06-16 134425](https://github.com/user-attachments/assets/6f006180-c9ab-4d01-8dc6-ecf8c2ace627)
